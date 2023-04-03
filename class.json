@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "rohit",
+      "surname": "verma",
+      "sex": "m",
+      "age": 19
+    },
+    {
+      "name": "mathew",
+      "surname": "cici",
+      "sex": "m",
+      "age": 10
+    },
+    {
+      "name": "jacob",
+      "surname": "mazz",
+      "sex": "m",
+      "age": 20
+    },
+    {
+      "name": "boom",
+      "surname": "baam",
+      "sex": "f",
+      "age": 3
+    },
+    {
+      "name": "loris",
+      "surname": "martinaj",
+      "sex": "m",
+      "age": "2"
+    }
+  ]
+}
